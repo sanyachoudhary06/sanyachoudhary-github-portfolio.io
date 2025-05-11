@@ -70,7 +70,7 @@ Aspiring Data Scientist and Python Developer with practical experience in buildi
 
 ## 📄 Resume & Contact
 
-📎 [View Resume (PDF)](./Sanya_Choudhary_Resume.pdf) *(upload your resume in the repo)*  
+📎 [View Resume (PDF)](./Sanya_Choudhary_Resume.pdf)   
 📧 Email: sanyachoudhary06@gmail.com  
 🔗 LinkedIn: [linkedin.com/in/YOUR-LINK-HERE](www.linkedin.com/in/sanya-choudhary-437b75217)  
 💻 GitHub: [github.com/YOUR-GITHUB-USERNAME](https://github.com/sanyachoudhary-github-portfolio)
