@@ -1,56 +1,80 @@
-# 👩‍💻 SANYA CHOUDHARY – Data Scientist Portfolio
+# 👩‍💻 Sanya Choudhary – Data Scientist & Python Developer
 
-🎓 B.Tech, IIT Delhi  
-📊 Aspiring Data Scientist with hands-on experience in Python, Pandas, Scikit-learn, SQL, and data storytelling.
-Passionate about uncovering insights from data and applying machine learning to real-world problems.
-
----
-
-## 🔬 Featured Projects
-
-### 🏠 Housing Price Prediction
-- **Problem**: Predict residential housing prices using 79 features
-- **Tools**: Python, Pandas, Scikit-learn, Matplotlib
-- **Approach**: Data preprocessing, EDA, Linear Regression, Gradient Boosting
-- **Result**: Achieved 91% R² score on validation set
-- 🔗 [GitHub Repo](#) | 📊 [Colab Notebook](#) *(add your links)*
+🎓 B.Tech Student – IIT Delhi (Class of 2026)  
+📍 Delhi, India | 📧 sanyachoudhary06@gmail.com | 📞 +91-8824089321  
+🔗 [LinkedIn](www.linkedin.com/in/sanya-choudhary-437b75217) | 
 
 ---
 
-### 🧠 Sentiment Analysis on Zomato Reviews 
-- **Problem**: Analyze customer sentiments from Zomato review texts
-- **Tools**: Python, NLTK, WordCloud, Logistic Regression
-- **Approach**: Text cleaning, tokenization, word embeddings, sentiment classification
-- **Outcome**: 85% accuracy in classifying positive/negative reviews
-- 🔗 [GitHub Repo](#)
+Aspiring Data Scientist and Python Developer with practical experience in building, evaluating, and deploying ML models for real-world data challenges. Proficient in Python, ML libraries (Scikit-learn, TensorFlow, Keras), SQL, and end-to-end data workflows. Strong interest in applied AI, forecasting, and model experimentation with a growing passion for foundational models and recommender systems.
 
 ---
 
-### 📈 Stock Price Trend Prediction
-- **Problem**: Forecast short-term trends using moving averages
-- **Tools**: Python, Pandas, yfinance
-- **Method**: Calculated SMA, EMA, created a simple buy/sell signal strategy
-- 🔗 [GitHub Repo](#)
+## 🔧 Skills
+
+- **Languages & Tools**: Python, Pandas, NumPy, Scikit-learn, TensorFlow, Keras, SQL, Docker, Git, Jupyter, Colab  
+- **ML/DL Models**: Linear & Logistic Regression, Random Forest, XGBoost, CNNs, LSTMs  
+- **Techniques**: Feature Engineering, EDA, Hyperparameter Tuning, Cross-validation, Anomaly Detection, Forecasting  
+- **Databases**: MySQL  
+- **Soft Skills**: Research Communication, Collaboration, Rapid Prototyping
 
 ---
 
-## 📄 Resume
-- 📎 [Download My Resume (PDF)](./Sanya_Data_Scientist_Resume (1))
+## 💼 Experience
+### 🐍 Python Developer | Margin Value  
+*Hybrid – Delhi | Jan 2025 – Apr 2025*  
+- Automated ETL pipelines using Pandas and custom Python scripts for recurring data workflows.  
+- Built and tuned classification models **XGBoost + Feature Store** using **Keras/TensorFlow** on structured datasets.  
+- Integrated APIs for real-time data collection and preprocessing.  
+- Conducted performance analysis (Precision, Recall, F1-Score) with the analytics team.
+
+### 📊 Data Scientist | Ryzen Tech  
+*Remote | May 2024 – Jul 2024*  
+- Built algorithms for **sensor data parsing, filtering, and anomaly detection**.  
+- Achieved **>95% accuracy** on a fill/theft detection model using 30k+ test cases.  
+- Developed Python automation scripts to handle streaming sensor data at scale.
 
 ---
 
-## 📬 Contact
-- ✉️ Email: your.email@example.com  
-- 💼 [LinkedIn](www.linkedin.com/in/sanya-choudhary-437b75217)  
-- 🧠 [GitHub](https://github.com/sanyachoudhary06)
+## 📈 Projects
+
+### 🏠 Real Estate Price Prediction  
+- Built ML pipeline using **Linear Regression**, **Ridge**, and **Gradient Boosting** to predict house prices.  
+- Performed in-depth **EDA**, feature selection, and hyperparameter tuning.  
+- Achieved **R² = 0.91** on validation data.  
+- Tools: Python, Pandas, Scikit-learn, Matplotlib
+
+### 🌊 ML-Based Sea Surface Forecasting  
+- Modeled Sea Surface Temperature and Salinity trends using **Random Forest** and **Linear Regression**.  
+- Applied **seasonal trend decomposition** and **lag-based feature engineering**.  
+- Tools: Python, Scikit-learn, Time-series methods
 
 ---
 
-## 💡 Certifications & Learning
-- ✅ Stanford University: Supervised Machine Learning (Coursera)
-- ✅ JP Morgan Chase: Investment Banking Virtual Internship
-- ✅ WorldQuant Brain: Alpha Research – IQC Stage 1 Qualified
+## 🏆 Achievements
+
+- **WorldQuant BRAIN – IQC Stage 1 Qualified**  
+  Ranked **683/6900+** globally in Stage 2  
+- **WorldQuant Challenge – Bronze Certificate**  
+  Top 10% among 46,000+ participants for alpha signal creation  
+- **Figma UX Designer** – Designed BNPL mobile app layout with flow interaction
 
 ---
 
-> “Without data, you’re just another person with an opinion.” – W. Edwards Deming
+## 📜 Certifications
+
+- **Supervised Machine Learning** – Stanford University (Coursera)  
+- **Investment Banking Virtual Internship** – JPMorgan Chase (Forage)
+
+---
+
+## 📄 Resume & Contact
+
+📎 [View Resume (PDF)](./Sanya_Choudhary_Resume.pdf) *(upload your resume in the repo)*  
+📧 Email: sanyachoudhary06@gmail.com  
+🔗 LinkedIn: [linkedin.com/in/YOUR-LINK-HERE](www.linkedin.com/in/sanya-choudhary-437b75217)  
+💻 GitHub: [github.com/YOUR-GITHUB-USERNAME](https://github.com/sanyachoudhary-github-portfolio)
+
+---
+
+> "Without data, you're just another person with an opinion." – W. Edwards Deming
