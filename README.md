@@ -2,7 +2,7 @@
 
 🎓 B.Tech Student – IIT Delhi (Class of 2026)  
 📍 Delhi, India | 📧 sanyachoudhary06@gmail.com | 📞 +91-8824089321  
-🔗 [LinkedIn](www.linkedin.com/in/sanya-choudhary-437b75217) | 
+🔗 [LinkedIn](www.linkedin.com/in/sanya-choudhary-437b75217) 
 
 ---
 
